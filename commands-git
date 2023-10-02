@@ -1,0 +1,7 @@
+commande pour cloner :
+git clone "lien ssh du repository"
+
+les 3 commandes de push :
+- git add
+- git commit
+- git push
